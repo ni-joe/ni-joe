@@ -50,7 +50,8 @@ HTML  |  CSS  |  PYTHON  |  JAVA  |  PHP  |  BOOTSTRAP  |  NODEJS  |  JAVASCRIPT
 ## Projects
 - Music Player (Spotify Clone) using Django
 - Student Attendance Management System
-- Working on Canteen Management System
+- Canteen Management System
+- To-Do-List Web Application
 <!---
 ni-joe/ni-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
