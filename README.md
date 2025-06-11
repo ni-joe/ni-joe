@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for Artificial in
   -- Designed a Music Player Web app (Clone to Spotify).
 
 #### Training - 2025
--  INDIAN INSTITUTE OF TECHNOLOGY (IIT) DELHI | WORKSHOP CUM TRAINING
+-  INDIAN INSTITUTE OF TECHNOLOGY (IIT) DELHI | WORKSHOP CUM TRAINING <br>
   -- Advanced Data Structure and Algorithm conducted by Techgyan
 
 
