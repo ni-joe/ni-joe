@@ -19,11 +19,16 @@ My journey in computer science has led me to develop a passion for Artificial in
 | Student Attendance Management Sys. (PHP, HTML, CSS, JavaScript) | Student Attendance Management System|
 | Mini Project using DJANGO (Python, Django, HTML, CSS, Django)   | Music Player (Spotify Clone) using DJANGO|
 
-### Internship 
+### Internship and Training 
+#### Internship - 2021
 -  FUTURO FOCUS <br>
   -- Completed an internship of 45 days in Django Programming <br>
 &nbsp;&nbsp;Framework <br>
-  -- Designed a Music Player Web app (Clone to Spotify). 
+  -- Designed a Music Player Web app (Clone to Spotify).
+
+#### Training - 2025
+-  INDIAN INSTITUTE OF TECHNOLOGY (IIT) DELHI | WORKSHOP CUM TRAINING
+  -- Advanced Data Structure and Algorithm conducted by Techgyan
 
 
 ## Tools
@@ -52,8 +57,9 @@ HTML  |  CSS  |  PYTHON  |  JAVA  |  PHP  |  BOOTSTRAP  |  NODEJS  |  JAVASCRIPT
 ## Projects
 - Music Player (Spotify Clone) using Django
 - Student Attendance Management System
-- Canteen Management System
 - To-Do-List Web Application
+- Canteen Management System
+- Mood Verse Web Application
 <!---
 ni-joe/ni-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
