@@ -11,11 +11,13 @@ My journey in computer science has led me to develop a passion for Artificial in
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Mini Project using DJANGO          | Music Player (Spotify Clone) using DJANGO|
-| Student Attendance Management Sys. | Student Attendance Management System|
-| Canteen Management System          | Canteen Management System for University Institute|
+| Skill                                                           | Associated Project         |
+|-----------------------------------------------------------------|----------------------------|
+| AI Driven Mood Analyser (Python, HTML, CSS, Tailwind)           | Mood Verse Web Application |
+| Canteen Management System (PHP, HTML, CSS, JavaScript)          | Canteen Management System for University Institute|
+| TO-DO List (NodeJS, JavaScript, HTML, CSS)                      | To-Do List Web Application |
+| Student Attendance Management Sys. (PHP, HTML, CSS, JavaScript) | Student Attendance Management System|
+| Mini Project using DJANGO (Python, Django, HTML, CSS, Django)   | Music Player (Spotify Clone) using DJANGO|
 
 ### Internship 
 -  FUTURO FOCUS <br>
@@ -26,7 +28,7 @@ My journey in computer science has led me to develop a passion for Artificial in
 
 ## Tools
 
-HTML  |  CSS  |  PYTHON  |  JAVA  |  PHP  |  BOOTSTRAP  |  NODEJS  |  JAVASCRIPT
+HTML  |  CSS  |  PYTHON  |  JAVA  |  PHP  |  BOOTSTRAP  |  NODEJS  |  JAVASCRIPT  |  DJANGO
 
 ### Network
 <div>
